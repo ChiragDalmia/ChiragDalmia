@@ -1,44 +1,47 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
-
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<div align="right">
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dalmiac&label=Views&color=6&icon=0&pretty=false" />
+</a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chirag+Dalmia!👀;Web+Developer+|+Tech+Enthusiast" />
+</h1>
+
+## 💫 About Me:
+
+<br>
+
+🔭 **Working on:** Responsive web apps and learning serverless architectures.
+
+👯 **Looking to collaborate:** Open-source web projects, especially with JavaScript frameworks.
+
+🌱 **Learning:** Cloud computing (AWS, Azure) and some advanced backend development.
+
+💬 **Ask me about:** Web development, UI/UX design, and software best practices.
+
+⚡ **Fun fact:** Passionate about digital art and outdoor adventures.
+
+## 🌐 Socials:
+<br>
+<a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none; border-radius: 8px;">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=briefcase&logoColor=white" alt="Portfolio" style="height:30px; border-radius: 8px;" />
+</a>
+<a href="https://linkedin.com/in/ezSnippet" target="_blank" style="text-decoration: none; border-radius: 8px;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px; border-radius: 8px;" />
+</a>
+<a href="https://twitter.com/ezSnippet" target="_blank" style="text-decoration: none; border-radius: 8px;">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="height:30px; border-radius: 8px;" />
+</a>
+<a href="https://github.com/ezSnippet" target="_blank" style="text-decoration: none; border-radius: 8px;">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" style="height:30px; border-radius: 8px;" />
+</a>
+
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -47,10 +50,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChiragDalmia/ChiragDalmia/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
