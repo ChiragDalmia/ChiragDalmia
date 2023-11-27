@@ -47,6 +47,8 @@
 <div align="center">
   <img src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api?username=ChiragDalmia&count_private=true&theme=react&border_radius=10" alt="Chirag Dalmia's GitHub Stats" />
   <img src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api/top-langs/?username=ChiragDalmia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Chirag Dalmia's Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragDalmia&theme=dark&hide_border=false" alt="Chirag Dalmia's GitHub Streak" />
 </div>
 
 ---
