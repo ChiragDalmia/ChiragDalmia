@@ -61,10 +61,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-stats-6qrc97wuw-chirag-dalmias-projects.vercel.app/api?username=ChiragDalmia&count_private=true&theme=react&border_radius=10" alt="Chirag Dalmia's GitHub Stats" />
-  <img width="390" src="https://github-readme-stats-6qrc97wuw-chirag-dalmias-projects.vercel.app/api/top-langs/?username=ChiragDalmia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Chirag Dalmia's Top Languages" />
+  <img width="390" src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api?username=ChiragDalmia&count_private=true&theme=react&border_radius=10" alt="Chirag Dalmia's GitHub Stats" />
+  <img width="390" src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api/top-langs/?username=ChiragDalmia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Chirag Dalmia's Top Languages" />
 </div>
-
 
 
 <br/><br/>
