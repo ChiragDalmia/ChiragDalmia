@@ -1,16 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=30&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Chirag+Dalmia!👀;Web+Developer+|+Tech+Enthusiast" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=dalmiac&label=Views&color=6&icon=0&pretty=false" />
+  </a>
+  <h1>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chirag+Dalmia!👀;Web+Developer+|+Tech+Enthusiast" />
+  </h1>
 </div>
 
 ## 💫 About Me
-- 🔭 **Working on:** Responsive web apps and learning serverless architectures.  
-- 👯 **Looking to collaborate:** Open-source web projects, especially with JavaScript frameworks.  
-- 🌱 **Learning:** Cloud computing (AWS, Azure) and some advanced backend development.  
-- 💬 **Ask me about:** Web development, UI/UX design, and software best practices.  
-- ⚡ **Fun fact:** Passionate about digital art and outdoor adventures.  
+🔭 **Working on:** Responsive web apps and learning serverless architectures.  
+👯 **Looking to collaborate:** Open-source web projects, especially with JavaScript frameworks.  
+🌱 **Learning:** Cloud computing (AWS, Azure) and some advanced backend development.  
+💬 **Ask me about:** Web development, UI/UX design, and software best practices.  
+⚡ **Fun fact:** Passionate about digital art and outdoor adventures.  
 
 ## 🌐 Socials
-<p align="center">
+<div align="center">
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=briefcase&logoColor=white" alt="Portfolio" style="height:30px;"/>
   </a>
@@ -23,13 +28,13 @@
   <a href="https://github.com/ezSnippet" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" style="height:30px;"/>
   </a>
-</p>
+</div>
 
 ## ⚒️ Languages, Frameworks, and Tools
-<p align="center">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql" />
-</p>
+</div>
 
 ## 🐍 My Contributions
 <div align="center">
@@ -46,5 +51,5 @@
 
 <div align="center">
   <b>Let's connect and collaborate!</b><br>
-  <a href="mailto:chiragdalmia11@gmail.com">📧 Email me</a> | <a href="https://twitter.com/ezSnippet">🐦 Twitter</a>
+  <a href="mailto:chiragdalmia11@gmail.com" style="text-decoration: none;">📧 Email me</a>
 </div>
