@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ChiragDalmiaa&label=Views&color=1&icon=0&pretty=false" />
+    <img src="https://visitcount.itsvg.in/api?id=dalmiac&label=Views&color=1&icon=0&pretty=false" />
   </a>
 </div>
 <div align="center">
