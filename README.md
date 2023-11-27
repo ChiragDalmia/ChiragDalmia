@@ -5,7 +5,8 @@
 </div>
 <div align="center">
   <h1>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=30&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Hi+There!+👋;I'm+Chirag+Dalmia!👀;Web+Developer+|%26+Tech+Enthusiast;Are+you+still+reading+this??;Time+to+start+the+loop+again!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=30&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Hi+There!+👋;I'm+Chirag+Dalmia!+🧑‍💻;Web+Developer+🌐+|+Tech+Enthusiast+💻;Are+you+still+reading+this?+🤔;Time+to+start+the+loop+again!+🔄" alt="Typing SVG" />
+
   </h1>
 </div>
 
