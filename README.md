@@ -44,12 +44,13 @@
 </div>
 
 ## ⚡ Stats
-<div align="center">
-  <img src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api?username=ChiragDalmia&count_private=true&theme=react&border_radius=10" alt="Chirag Dalmia's GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api/top-langs/?username=ChiragDalmia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Chirag Dalmia's Top Languages" />
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api?username=ChiragDalmia&show_icons=true&theme=tokyonight&border_color=333&hide_border=true" alt="Chirag Dalmia's GitHub Stats" style="width: 48%; margin: 0 1%;" />
+  <img src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api/top-langs/?username=ChiragDalmia&layout=compact&theme=tokyonight&border_color=333&hide_border=true" alt="Chirag Dalmia's Top Languages" style="width: 48%; margin: 0 1%;" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragDalmia&theme=dark&hide_border=false" alt="Chirag Dalmia's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragDalmia&theme=tokyonight&hide_border=true" alt="Chirag Dalmia's GitHub Streak" style="margin-top: 20px;" />
 </div>
+
 
 ---
 
