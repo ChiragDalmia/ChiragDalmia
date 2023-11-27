@@ -1,7 +1,9 @@
-<div align="center">
+<div align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dalmiac&label=Views&color=6&icon=0&pretty=false" />
+    <img src="https://visitcount.itsvg.in/api?id=dalmiac&label=Views&color=1&icon=0&pretty=false" />
   </a>
+</div>
+<div align="center">
   <h1>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chirag+Dalmia!👀;Web+Developer+|+Tech+Enthusiast" />
   </h1>
