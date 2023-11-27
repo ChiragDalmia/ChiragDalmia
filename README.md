@@ -19,16 +19,16 @@
 
 ## 🌐 Socials
 <div align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://chiragdalmia.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=briefcase&logoColor=white" alt="Portfolio" style="height:30px;"/>
   </a>
-  <a href="https://linkedin.com/in/ezSnippet" target="_blank">
+  <a href="https://linkedin.com/in/chiragdalmia007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px;"/>
   </a>
-  <a href="https://twitter.com/ezSnippet" target="_blank">
+  <a href="https://twitter.com/chiragdalmia007" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="height:30px;"/>
   </a>
-  <a href="https://github.com/ezSnippet" target="_blank">
+  <a href="https://github.com/ChiragDalmia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" style="height:30px;"/>
   </a>
 </div>
