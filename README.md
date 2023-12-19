@@ -37,11 +37,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql" />
 </div>
 
-## 🐍 My Contributions
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChiragDalmia/ChiragDalmia/output/github-contribution-grid-snake.svg" />
-</div>
-
 ## ⚡ Stats
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
   <img src="https://github-readme-stats-git-master-chirag-dalmias-projects.vercel.app/api?username=ChiragDalmia&show_icons=true&theme=tokyonight&border_color=333&hide_border=true" alt="Chirag Dalmia's GitHub Stats" style="width: 48%; margin: 0 1%;" />
@@ -50,6 +45,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragDalmia&theme=tokyonight&hide_border=true" alt="Chirag Dalmia's GitHub Streak" style="margin-top: 20px;" />
 </div>
 
+## 🐍 My Contributions
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChiragDalmia/ChiragDalmia/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
